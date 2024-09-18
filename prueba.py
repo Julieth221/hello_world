@@ -29,3 +29,4 @@ D = True
 
 resultado = ((A and B) and C) and D
 print(resultado)
+
